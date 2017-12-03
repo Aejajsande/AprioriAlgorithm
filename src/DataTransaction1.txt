@@ -1,0 +1,20 @@
+BodyWash Tissues PaperTowels
+Tissues Eggs Noodle Milk BodyLotion Bread
+Milk BodyLotion Bread
+Bread Tissues Eggs PaperTowels 
+Jeans Tissues Bread BodyLotion Noodle Milk
+BodyLotion  Noodle
+Shirt BodyLotion Jeans Tissues Bread Noodle BodyWash
+PaperTowels Eggs Jeans
+BodyLotion Jeans Shirt Eggs Milk
+BodyLotion Milk Tissues Shirt
+BodyWash BodyLotion Noodle Bread Tissues 
+BodyLotion
+Noodle Eggs Jeans
+Noodle BodyLotion Shirt Bread
+BodyWash Tissues Shirt Bread Milk
+BodyLotion PaperTowels
+Milk Tissues PaperTowels 
+Bread BodyLotion
+PaperTowels Shirt Bread Eggs Tissues
+Jeans PaperTowels BodyWash Eggs
